@@ -5,7 +5,7 @@ FKD-Med: Privacy-Aware, Communication-Optimized Medical Image Segmentation via F
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 
-# FKD4Bio-Framework
+# FKD-Med Framework
 
 ## Overview
 This repository contains code for training and testing U-Net for image semantic segmentation tasks. It contains both traditional and Federated Traning using the FedAvg algorithm in the Flower framework.
